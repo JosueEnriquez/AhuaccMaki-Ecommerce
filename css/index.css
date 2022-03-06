@@ -1,3 +1,6 @@
+/*!---------------Db-Home---------------*/
+@import url("./Db-Home.css");
+
 /*!---------------Variables---------------*/
 :root {
   /*!---------------Fuentes---------------*/
@@ -5,8 +8,9 @@
   --font-open-sans: 'Open Sans', sans-serif;
   --font-mono-space: monospace;
   /*!---------------Colores---------------*/
-  
+  --bg-navbar-glass:rgba(237, 242, 249, 0.96);
+  --navbar-light-color: rgba(0, 0, 0, 0.55);
+  --clr-300: #d8e2ef;
+  --primary: #2c7be5;
+  --navbar-light-hover-color: rgba(0, 0, 0, 0.7);
 }
-
-/*!---------------Db-Home---------------*/
-@import "./Db-Home.css"
