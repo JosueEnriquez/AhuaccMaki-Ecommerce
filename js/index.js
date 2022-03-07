@@ -3,7 +3,7 @@
 //!---------------St-Home---------------
 if (
   window.location.pathname === "/index.html" ||
-  window.location.pathname === "AhuaccMaki-Ecommerce"
+  window.location.pathname === "/AhuaccMaki-Ecommerce/"
 ) {
 }
 
